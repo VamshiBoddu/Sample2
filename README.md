@@ -45,6 +45,42 @@ void main()
  int a,b,c:
  a=5;
  b=10;
+ c=a+b;gt
+dsffg
+fggfrfrg
+gfdg
+gdresgregdfrgdr
+gdres
+void main()
+{
+ pulic class main
+ int a,b,c:
+ a=5;
+ b=10;
+ c=a+b;gt
+dsffg
+fggfrfrg
+gfdg
+gdresgregdfrgdr
+gdres
+void main()
+{
+ pulic class main
+ int a,b,c:
+ a=5;
+ b=10;
+ c=a+b;gt
+dsffg
+fggfrfrg
+gfdg
+gdresgregdfrgdr
+gdres
+void main()
+{
+ pulic class main
+ int a,b,c:
+ a=5;
+ b=10;
  c=a+b;
  printf("%d",c);
 }
